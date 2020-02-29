@@ -1,0 +1,7 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.fontLigatures": true,
+    "prettier.singleQuote": true,
+    "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace"
+}
